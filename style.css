@@ -55,6 +55,15 @@ body {
   gap: 24px;
 }
 
+.greeting {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  font-style: italic;
+}
+
 .tag {
   font-size: 0.7rem;
   font-weight: 600;
